@@ -1,12 +1,12 @@
 # Site settings
 title: Travelog
-subtitle: "Journal of [name]"
+subtitle: "Journal of Github Teacher"
 email: your-email@domain.com
 description: "Make the footer happy by entering a short description about yourself here"
 baseurl: ""
 url: "http://yourdomain.com"
 twitter_username: "rowanoulton"
-github_username:  "rowanoulton"
+github_username:  "githubteacher"
 instagram_username: "rowanoulton"
 
 # Build settings
